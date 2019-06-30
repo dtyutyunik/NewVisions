@@ -8,6 +8,10 @@ Specifically, build a dashboard that:
 2. Displays a list of students who are chronically absent, including the data points from the data set you feel would be useful and relevant to view alongside each student.
 3. Allows the principal or guidance counselor to adjust the threshold for what it means to be chronically absent. Upon modifying the threshold, the list of students should change. 
 
+# Technology used
+
+React
+
 # Logic
 
 1. Students are assigned to Guidance Counselor, so students will be displayed based on the guidance counselor selected
